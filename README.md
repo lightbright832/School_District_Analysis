@@ -74,3 +74,6 @@ Again these images represent similar averages with the only difference being the
 ![](https://github.com/lightbright832/School_District_Analysis/blob/main/New%20Type%20Summary.png)
 
 Lastly, we see that the same results occur with the type summary. If it were not for rounding differences these averages would have mimicked each other.
+
+## Summary
+Now that we have replaced the ninth grade reading and math scores there are some noticable differences in the data summaries. The formatting for one has changed and we did not document the spending ranges in the new dataframe. The rounding that occured in the original code changed with the new Thomas High School scores. While it is not my opinion that fraud occured during the documentation process there is no definitive answer based on this analysis. Based on the close results it would appear the grades were accurate from the start. 
