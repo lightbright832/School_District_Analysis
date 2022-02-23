@@ -29,3 +29,13 @@ New school summary
 
 There is not much difference between these two summaries besides the missing spending range per student. This is a great addition to the Dataframe so it would have been beneficial to have in both summaries. 
 
+* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+Original Thomas High School Scores
+
+![](https://github.com/lightbright832/School_District_Analysis/blob/main/Original%20Thomas%20Scores.png)
+
+Thomas High School scores without 9th grade
+
+![](https://github.com/lightbright832/School_District_Analysis/blob/main/Thomas%20High%20School.png)
+
