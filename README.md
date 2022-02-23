@@ -72,3 +72,5 @@ Again these images represent similar averages with the only difference being the
 ![](https://github.com/lightbright832/School_District_Analysis/blob/main/Original%20Type%20Summary.png)
 
 ![](https://github.com/lightbright832/School_District_Analysis/blob/main/New%20Type%20Summary.png)
+
+Lastly, we see that the same results occur with the type summary. If it were not for rounding differences these averages would have mimicked each other.
