@@ -43,7 +43,7 @@ By removing the 9th grade scores we see that the overall passing average for Tho
 
 * How does replacing the ninth-grade scores affect the following:
 
-** Math and reading scores by grade
+  * Math and reading scores by grade
 
 ![](https://github.com/lightbright832/School_District_Analysis/blob/main/Thomas%20by%20Grade.png)
 
@@ -51,7 +51,7 @@ By removing the 9th grade scores we see that the overall passing average for Tho
 
 There are differences observed in the scores by grade because without the 9th grade scores there is a slight variation in the averages and overall scores that are realized for Thomas High School. While the difference isn't great there is an obvious difference.
 
-** Scores by school spending
+  * Scores by school spending
 
 ![](https://github.com/lightbright832/School_District_Analysis/blob/main/Original%20Spending%20Summary.png)
 
@@ -59,11 +59,16 @@ There are differences observed in the scores by grade because without the 9th gr
 
 The differences that are obvious between these two images is that the new summary does not have the scores rounded where as they were in the first summary. The values are very close and would be the same if the rounding had been applied in the same manner.
 
-** Scores by school size
+  * Scores by school size
 
 ![](https://github.com/lightbright832/School_District_Analysis/blob/main/Original%20Size%20Summary.png)
 
 ![](https://github.com/lightbright832/School_District_Analysis/blob/main/New%20Size%20Summary.png)
 
-** Scores by school type
+Again these images represent similar averages with the only difference being the rounding that did not occur. Ultimately these figures represent the same averages.
 
+  * Scores by school type
+
+![](https://github.com/lightbright832/School_District_Analysis/blob/main/Original%20Type%20Summary.png)
+
+![](https://github.com/lightbright832/School_District_Analysis/blob/main/New%20Type%20Summary.png)
