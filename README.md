@@ -14,3 +14,18 @@ Original district summary
 New district summary
 
 ![](https://github.com/lightbright832/School_District_Analysis/blob/main/New%20Disctrict%20Summary.png)
+
+In looking at these two images it is clear to see that there is not much variance between the summary where the ninth grade scores are removed for Thomas High School. The formatting is different so that the numbers may not be rounded but the overall results are almost spot on. 
+
+* How is the school summary affected?
+
+Original school summary
+
+![](https://github.com/lightbright832/School_District_Analysis/blob/main/Original%20School%20Summary.png)
+
+New school summary
+
+![](https://github.com/lightbright832/School_District_Analysis/blob/main/New%20School%20Summary.png)
+
+There is not much difference between these two summaries besides the missing spending range per student. This is a great addition to the Dataframe so it would have been beneficial to have in both summaries. 
+
