@@ -57,7 +57,13 @@ There are differences observed in the scores by grade because without the 9th gr
 
 ![](https://github.com/lightbright832/School_District_Analysis/blob/main/New%20Spending%20Summary.png)
 
+The differences that are obvious between these two images is that the new summary does not have the scores rounded where as they were in the first summary. The values are very close and would be the same if the rounding had been applied in the same manner.
+
 ** Scores by school size
+
+![](https://github.com/lightbright832/School_District_Analysis/blob/main/Original%20Size%20Summary.png)
+
+![](https://github.com/lightbright832/School_District_Analysis/blob/main/New%20Size%20Summary.png)
 
 ** Scores by school type
 
