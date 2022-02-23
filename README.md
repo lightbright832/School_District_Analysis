@@ -39,3 +39,25 @@ Thomas High School scores without 9th grade
 
 ![](https://github.com/lightbright832/School_District_Analysis/blob/main/Thomas%20High%20School.png)
 
+By removing the 9th grade scores we see that the overall passing average for Thomas High School did go down 0.31%. In terms of the analysis this does not raise too much alarm becuase it did not change the average even an entire percentage point. There is a possibility that the grades were tampered with but if that is the case the results are not worth the effort. 
+
+* How does replacing the ninth-grade scores affect the following:
+
+** Math and reading scores by grade
+
+![](https://github.com/lightbright832/School_District_Analysis/blob/main/Thomas%20by%20Grade.png)
+
+![](https://github.com/lightbright832/School_District_Analysis/blob/main/New%20Thomas.png)
+
+There are differences observed in the scores by grade because without the 9th grade scores there is a slight variation in the averages and overall scores that are realized for Thomas High School. While the difference isn't great there is an obvious difference.
+
+** Scores by school spending
+
+![](https://github.com/lightbright832/School_District_Analysis/blob/main/Original%20Spending%20Summary.png)
+
+![](https://github.com/lightbright832/School_District_Analysis/blob/main/New%20Spending%20Summary.png)
+
+** Scores by school size
+
+** Scores by school type
+
